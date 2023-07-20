@@ -15,7 +15,7 @@ Prof. Carmel Majidi (Mechanical Engineering, CMU)
 
 Andrew Choi (4th year PhD, UCLA)
 
-Ran (3rd year PhD, UCLA)
+Ran (PhD, BU)
 
 Anthony (Postdoc, CMU)
 
