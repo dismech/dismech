@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our Team
-description: 
+description: ...
 ---
 
 ## PIs:
