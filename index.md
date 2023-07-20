@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hey there! this is my first website using git pages.
+# Hey there! this is my first website using git pages.
 
 Dismech stands for Discrete-Mechanics. It is a codebase that has been developed at the [Structure Computer Interaction Lab](https://structures.computer/) at UCLA to simulate complex soft structures that can be modeled/represented as flexible rods, plates or shells or a network of these basic building block elements. The code is user-friendly and modular and can be easily used to simulate different kind of physical biological structures/ soft robots and so on.
 
