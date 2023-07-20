@@ -8,16 +8,12 @@ This website is intended to make this resource available to the larger community
 
 The multirod code can be found here: [gitrepo for the matlab version](https://github.com/Radha-Lahoti/DER-Matlab-MultiRod)
 
+[Contributors](./Contributors.html).
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
-[Contributors](./Contributors.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
