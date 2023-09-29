@@ -17,6 +17,6 @@ Andrew Choi (4th year PhD, UCLA)
 
 Ran (PhD, BU)
 
-Anthony (Postdoc, CMU)
+Anthony (PhD, CMU)
 
 Radha Lahoti (1st year PhD, UCLA)
