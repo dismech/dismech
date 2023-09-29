@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Dismech (Discrete Simulation for Mechanics of Slender Structures) is a codebase that has been developed at the [Structures-Computer Interaction Lab](https://structures.computer/) at UCLA in collaboration with BU and CMU, to simulate complex soft structures that can be modeled/represented as flexible rods, plates or shells or a network of these basic building block elements. The code is user-friendly and modular and can be easily used to simulate different kind of physical biological structures, soft robots and so on.
+DiSMech (Discrete Simulation for Mechanics of Slender Structures) is a codebase that has been developed at the [Structures-Computer Interaction Lab](https://structures.computer/) at UCLA in collaboration with BU and CMU, to simulate complex soft structures that can be modeled/represented as flexible rods, plates or shells or a network of these basic building block elements. The code is user-friendly and modular and can be easily used to simulate different kind of physical biological structures, soft robots and so on.
 
 This website is intended to make this resource available to the larger community of interested researchers. The various sections that follow will go over the steps to be able to use the code for user's specific requirements. We have also included some example simulation cases which will help understand the process better. 
 
